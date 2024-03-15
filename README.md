@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 <h1 align="center">Hi 👋, I'm Yvvon Majala</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 <img align= "right" alt="Lady Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JsGu7HsijUJ3aNZuzM4PVzkmf8Z6-0MAKw&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/yvvonm" target="blank"><img src="https://img.shields.io/twitter/follow/yvvonm?logo=twitter&style=for-the-badge" alt="yvvonm" /></a> </p>
 
 - 🌱 I’m currently learning **Apache spark, Airflow, DBT**
 
-- 💬 Ask me about **Data, AI, IoT**
+- 💬 Ask me about **Data Engineering, Machine Learning, AI, IoT**
 
 - 📫 How to reach me **yvvonjemymahmajala@gmail.com**
 
