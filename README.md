@@ -1,4 +1,4 @@
-
+<img src="https://adatis.co.uk/wp-content/uploads/Women-in-data-2.jpeg" alt="Data Engineering"/>
 <h1 align="center">Hi 👋, I'm Yvvon Majala</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
