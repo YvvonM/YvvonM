@@ -9,7 +9,7 @@ I build intelligent systems that solve real-world problems — from career platf
 
 - **Languages:** Python, FastAPI, SQL  
 - **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Transformers  
-- **AI Frameworks:** LangChain, LangGraph, Unsloth, Hugging Face, PyTorch, TensorFlow  
+- **AI Frameworks:** LangChain, LangGraph, Unsloth, Hugging Face, PyTorch, TensorFlow, PEFT, LoRA 
 - **Databases:** SQLite, ChromaDB, PostgreSQL  
 - **Dev Tools:** Git, Streamlit, FastAPI, Docker  
 - **Other:** Web scraping, Data pipelines, API integrations, RAG systems  
