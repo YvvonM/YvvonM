@@ -7,7 +7,7 @@ I build intelligent systems that solve real-world problems — from career platf
 
 ## 🛠️ Skills & Tools  
 
-- **Languages:** Python, JavaScript, SQL  
+- **Languages:** Python, FastAPI, SQL  
 - **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Transformers  
 - **AI Frameworks:** LangChain, LangGraph, Unsloth, Hugging Face, PyTorch, TensorFlow  
 - **Databases:** SQLite, ChromaDB, PostgreSQL  
